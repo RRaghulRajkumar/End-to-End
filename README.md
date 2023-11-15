@@ -4,7 +4,7 @@
 
 An on-premises SQL database, often referred to as an on-premises database, is a database system that is hosted and maintained within an organization's physical infrastructure rather than in a cloud environment or hosted by a third-party provider. In this setup, the organization is responsible for acquiring, installing, configuring, securing, and maintaining both the hardware and software components of the database system.
 
-## Key Characteristics and Considerations
+## Key Characteristics 🗝 and Considerations
 
 Here are some key characteristics and considerations for on-premises SQL databases:
 
